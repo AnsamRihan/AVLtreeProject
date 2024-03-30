@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1653768719 source:c:\users\ansam\desktop\hello\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	<ctype.h>
+
+1654648332 source:c:\users\ansam\desktop\data structure\hello\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	<ctype.h>
+
